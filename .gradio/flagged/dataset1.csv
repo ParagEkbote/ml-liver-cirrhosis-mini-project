@@ -1,0 +1,2 @@
+Choose Model,Age,Gender,Total Bilirubin (TB),Direct Bilirubin (DB),Alkaline Phosphotase (Alkphos),Sgpt,Sgot,Total Proteins (TP),Albumin (ALB),A/G Ratio,Prediction,Confidence,timestamp
+XGBoost,70,Male,5,1,1,1,0,1,1,3,**Prediction:** Diseased,**Confidence:** 0.7288896441459656,2025-11-25 19:05:36.270849
