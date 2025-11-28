@@ -16,7 +16,7 @@
 Markers for testing: 
 | Feature        | Normal Range | Cirrhosis Indication                |
 | -------------- | ------------ | ----------------------------------- |
-| **Age**        | —            | >50 higher risk                     |
+| **Age**        | —            | >50 could have higher risk                     |
 | **TB**         | 0.1–1.2      | >3 (moderate), >10 (severe)         |
 | **DB**         | 0–0.3        | >1 (strong), >3 (severe)            |
 | **Alkphos**    | 44–147       | >200 (cholestasis), >400 (advanced) |
